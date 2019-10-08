@@ -2,6 +2,10 @@
 Created by Tonci14
 Any modifications or redistributions allowed. Happy Coding ;-)
 
+## Youtube
+https://youtu.be/jrSQ3qUBSks
+https://youtu.be/_Ouko3EJYlI
+
 ## Note
 Hi! This is my first public code, so be nice to me.. :)
 
