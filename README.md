@@ -6,6 +6,9 @@ Any modifications or redistributions allowed. Happy Coding ;-)
 https://youtu.be/jrSQ3qUBSks
 https://youtu.be/_Ouko3EJYlI
 
+My other projects:
+https://www.youtube.com/playlist?list=PLpFiBz06Um3DUyLKNLZelgP0mtJA5bFmr
+
 ## Note
 Hi! This is my first public code, so be nice to me.. :)
 
